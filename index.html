@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#2563EB" />
+    <meta name="description" content="Alerta Vecinos - Aplicación de seguridad comunitaria, monitoreo barrial y protección ciudadana" />
+    <title>Alerta Vecinos — Seguridad Comunitaria</title>
+    <!-- Google Fonts: Outfit & Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      // Aplicar el tema antes de mostrar el contenido evita el destello de color claro.
+      try {
+        const theme = localStorage.getItem('alerta-vecinos-theme');
+        if (theme === 'dark' || (!theme && matchMedia('(prefers-color-scheme: dark)').matches)) {
+          document.documentElement.classList.add('dark');
+        }
+      } catch (_) { /* La app sigue funcionando si el almacenamiento está bloqueado. */ }
+    </script>
+  </head>
+  <body class="bg-slate-100 text-content-title font-inter antialiased min-h-screen flex justify-center items-start">
+    <div
+      id="app"
+      class="w-full max-w-mobile min-h-screen bg-surface-canvas shadow-xl flex flex-col relative overflow-x-hidden"
+    >
+      <!-- El contenido reactivo de las 41 pantallas se monta aquí -->
+    </div>
+    <button id="theme-toggle" type="button" aria-label="Activar modo oscuro" aria-pressed="false" title="Cambiar modo claro u oscuro">
+      <span id="theme-toggle-icon" aria-hidden="true">☾</span>
+      <span id="theme-toggle-label">Modo oscuro</span>
+    </button>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

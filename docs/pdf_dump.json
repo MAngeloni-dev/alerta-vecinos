@@ -1,0 +1,248 @@
+[
+  {
+    "page": 1,
+    "width": 250.0,
+    "height": 555.0,
+    "text": "Alerta Vecinos\nBienvenido/a\nMapa\n   de\nRiesgo\nAlertas\nCercanas\nParadas\nSeguras\nConsejos\nPreventivos\nReportes\nEmergencias\nSeguridad Personal\nFavoritos\nMi Perfil\nAdministración\n"
+  },
+  {
+    "page": 2,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\nMapa de riesgo\nLeyenda:\nZona Verde\nZona Amarilla\nZona Roja\n"
+  },
+  {
+    "page": 3,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\n<-- Volver\nAlertas Cercanas\nAlertas en tu zona\n ⚠ Actividad sospechosa \na 800 M\n             [ Ver incidente ]\n⚠ Robo\na 500 m\n            [Ver incidente]\nRadio de búsqueda\n2km\n[Configurar radio]\n"
+  },
+  {
+    "page": 4,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nRadio de búsqueda\nRadio seleccionado: 2 km\n500 m    1 km    2 km    5 km\n────────●────────\nGuardar configuración\n"
+  },
+  {
+    "page": 5,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\nParadas Seguras\nParadas cercanas\nBuscar Parada ...\nPlaza Roca a 350 M\nPlaza Roca a 350 M\n[Ver ubicación]\n[Ver ubicación]\nTerminal de omnibus a 1km\n[Ver ubicación]\n"
+  },
+  {
+    "page": 6,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nBuscar Paradas\nBuscar parada: __________\nPlaza Roca · 350 m\nTerminal de ómnibus · 1 km\nVer ubicación\n"
+  },
+  {
+    "page": 7,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nUbicación de Parada\n[ Mapa de la parada ]\n● Plaza Roca\nUbicación: a 350 m\n"
+  },
+  {
+    "page": 8,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\nConsejos Preventivos\nConsejos de prevención\nEvitá circular por zonas\npoco iluminadas durante la \nnoche.\nMantené  tus pertenencias \nsiempre a la vista.\nPlaza Roca a 350 M\n[Ver ubicación]\nSiempre compartí tu ubicación \ncuando viajes solo/a\nVer más recomendaciones\nNúmeros de emergencia\n"
+  },
+  {
+    "page": 9,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nRecomendaciones\nEvitá zonas poco iluminadas.\nMantené tus pertenencias a la \nvista.\nCompartí tu ubicación al viajar.\n"
+  },
+  {
+    "page": 10,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\nNúmeros de emergencia\nContactos de emergencia\nPolicía · 911\nAmbulancia · 107\nBomberos · 100\n"
+  },
+  {
+    "page": 11,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\n<-- Volver\nReportes\nReportes\nReportes\nCrear reporte\nConsultar reportes \n"
+  },
+  {
+    "page": 12,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nReportes Públicos\nRobo · 500 m · Pendiente\nAccidente · 1,2 km · Verificado\nActividad sospechosa · 800 m\nFiltrar reportes\nVer reporte\n"
+  },
+  {
+    "page": 13,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nFiltrar Reportes\nCercanía: 2 km\nCategoría: Todas\nEstado del reporte: Todos\nAplicar filtros\nLimpiar filtros\n"
+  },
+  {
+    "page": 14,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\n<-- Volver\nIniciar sesión\nAlerta Vecinos\nPara crear un reporte\nlogueate o registrate\nEmail\ncorreo@ejemplo.com\nContraseña\n************\nIniciar Sesión\nRegistrate\n"
+  },
+  {
+    "page": 15,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nCrear Reporte\n¿Qué querés reportar?\nSeleccioná un tipo para comenzar.\nSeleccionar tipo de reporte\n"
+  },
+  {
+    "page": 16,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\n<-- Volver\nTipo de reporte\nCrear nuevo reporte\nRobo\nActividad\nSospechosa\nAccidente\nVandalismo\nIncendio\nOtro\nContinuar\n"
+  },
+  {
+    "page": 17,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\n<-- Volver\nCompletar Reporte\nTipo de reporte : “Accidente”\nUbicación: seleccionar\nDescripción:\nEscribí lo sucedido...\nFoto/Video\nAdjuntar Archivo +\nReporte anónimo\nSi\nNo\nCancelar\nContinuar\n"
+  },
+  {
+    "page": 18,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\n<-- Volver\nResumen Reporte\nTipo de reporte : “Accidente”\nFecha y hora: 18/08/2026 - 19:32\nEstado: Pendiente\nNúmero de tracking : REP-000123\nDescripción: Lorem Ipsum Dolor\nUbicación: Ubicación seleccionada\nReporte anónimo: No\n[ Editar reporte ] [ Emergencias ]\nCancelar\nConfirmar Reporte\n"
+  },
+  {
+    "page": 19,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\nConfirmar reporte\n¿Estás seguro de que querés \nenviar este reporte?\nRevisá los datos antes de \nconfirmar.\nSí, confirmar\nNo, volver al resumen\n"
+  },
+  {
+    "page": 20,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\n<-- Volver\nReporte Exitoso\n✓\nReporte creado con éxito\nVer reporte creado\nCrear otro reporte\nVolver al inicio\n"
+  },
+  {
+    "page": 21,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\nDetalle del reporte\nTipo: Accidente\nEstado: Pendiente\nFecha y hora: 18/08/2026 · 19:32\nTracking: REP-000123\nDescripción: Lorem Ipsum Dolor\nUbicación: Ubicación seleccionada\nAnónimo: No\nIr al inicio\n"
+  },
+  {
+    "page": 22,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\n<-- Volver\nSeguridad Personal\nPreparar Trayecto\nDestino\nSeleccionar destino\nContacto de seguridad\nElegir contacto\nLugares frecuentes\nCasa\nTrabajo\nFacultad\nIniciar Trayecto\n"
+  },
+  {
+    "page": 23,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nSeleccionar Destino\nUbicación actual\nDestino: Buscar lugar...\nFavoritos: Casa · Trabajo · \nFacultad\nContinuar\n"
+  },
+  {
+    "page": 24,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nElegir Contacto\n○ Juan Pérez\n○ María Gómez\n○ Contacto de seguridad\nContinuar\n"
+  },
+  {
+    "page": 25,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "<-- Volver\n<-- Volver\nTrayecto Activo\nDestino\nCasa\nContacto de seguridad\nJuan Pérez\nEstado\nTrayecto en curso\nFinalizar Trayecto\nEnviar Alerta\nLluegué Bien\n"
+  },
+  {
+    "page": 26,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nFavoritos\nCasa · Editar · Eliminar\nTrabajo · Editar · Eliminar\nFacultad · Editar · Eliminar\nAgregar nuevo lugar\nEditar lugar\nEliminar lugar\n"
+  },
+  {
+    "page": 27,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nAgregar Lugar\nNombre del lugar: __________\nDirección / ubicación: __________\nCancelar\nGuardar\n"
+  },
+  {
+    "page": 28,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nEditar Lugar\nNombre: Casa\nDirección / ubicación: __________\nCancelar\nGuardar cambios\n"
+  },
+  {
+    "page": 29,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nEliminar Lugar\n¿Está seguro que desea eliminar \neste lugar?\nCancelar\nEliminar\n"
+  },
+  {
+    "page": 30,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nMi Perfil\nUsuario: Nombre Apellido\nEmail: correo@ejemplo.com\nEditar Perfil\nNotificaciones\nHistorial Personal\nMis Reportes\nReportes Comentados\nMis Trayectos\n"
+  },
+  {
+    "page": 31,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nEditar Perfil\nNombre: __________\nApellido: __________\nEmail: __________\nCancelar\nGuardar cambios\n"
+  },
+  {
+    "page": 32,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nNotificaciones\nNueva alerta cercana\nCambio de estado de reporte\nAviso de seguridad\n"
+  },
+  {
+    "page": 33,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nHistorial Personal\nTu actividad reciente\nMis Reportes\nReportes Comentados\nMis Trayectos\n"
+  },
+  {
+    "page": 34,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nMis Reportes\nAccidente · 18/08 · Pendiente\nTracking: REP-000123\nRobo · 15/08 · Verificado\nVer detalle\n"
+  },
+  {
+    "page": 35,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nReportes Comentados\nRobo · comentario del 17/08\nAccidente · comentario del 15/08\nVer reporte\n"
+  },
+  {
+    "page": 36,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nMis Trayectos\nCasa → Trabajo · 18/08 · \nFinalizado\nFacultad → Casa · 16/08 · \nFinalizado\n"
+  },
+  {
+    "page": 37,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nAdministración\nSolo administradores\nModeración de Reportes\nEstadísticas\nGestión de Usuarios\nGestión de Reportes\n"
+  },
+  {
+    "page": 38,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nModeración de Reportes\nRobo · 18/08 · Anónimo · \nPendiente\nAccidente · 17/08 · Usuario · \nPendiente\nRevisar reporte\nAprobar\nRechazar\n"
+  },
+  {
+    "page": 39,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nEstadísticas\nTotal de reportes: [  120  ]\nPor categoría: [ ▯ ▯ ▯ ]\nPor estado: [ ▯ ▯ ▯ ]\nIncidentes por zona: [ ▯ ▯ ]\n"
+  },
+  {
+    "page": 40,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nGestión de Usuarios\nBuscar usuario: __________\nJuan Pérez · Activo\nMaría Gómez · Activa\nVer / gestionar usuario\n"
+  },
+  {
+    "page": 41,
+    "width": 250.0,
+    "height": 347.0,
+    "text": "← Volver\nGestión de Reportes\nBuscar: __________\nFiltrar: Categoría / Estado\nRobo · 18/08 · Pendiente\nAccidente · 17/08 · Verificado\nGestionar reporte\n"
+  }
+]

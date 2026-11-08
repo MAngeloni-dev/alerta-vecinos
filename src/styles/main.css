@@ -1,0 +1,158 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #2563EB;
+  --color-primary-dark: #1D4ED8;
+  --color-secondary: #10B981;
+  --color-warning: #F59E0B;
+  --color-emergency: #EF4444;
+  --color-canvas: #F8FAFC;
+  --color-card: #FFFFFF;
+  --color-border: #E2E8F0;
+  --color-title: #0F172A;
+  --color-body: #334155;
+  --color-muted: #64748B;
+  --surface-canvas: 248 250 252;
+  --surface-card: 255 255 255;
+  --surface-border: 226 232 240;
+  --surface-border-focus: 203 213 225;
+  --content-title: 15 23 42;
+  --content-body: 51 65 85;
+  --content-muted: 100 116 139;
+  --content-placeholder: 148 163 184;
+  --blue-subtle: 239 246 255;
+  --green-subtle: 236 253 245;
+  --amber-subtle: 254 243 199;
+  --red-subtle: 254 242 242;
+  --blue-dark: 30 64 175;
+  --green-dark: 6 95 70;
+  --amber-dark: 146 64 14;
+  --red-dark: 153 27 27;
+}
+
+/* Los colores semánticos cambian en toda la aplicación sin rehacer las 41 vistas. */
+html.dark {
+  color-scheme: dark;
+  --color-canvas: #0f172a;
+  --color-card: #1e293b;
+  --color-border: #334155;
+  --color-title: #f1f5f9;
+  --color-body: #cbd5e1;
+  --color-muted: #94a3b8;
+  --surface-canvas: 15 23 42;
+  --surface-card: 30 41 59;
+  --surface-border: 51 65 85;
+  --surface-border-focus: 100 116 139;
+  --content-title: 241 245 249;
+  --content-body: 203 213 225;
+  --content-muted: 148 163 184;
+  --content-placeholder: 148 163 184;
+  --blue-subtle: 30 58 95;
+  --green-subtle: 6 78 59;
+  --amber-subtle: 92 58 15;
+  --red-subtle: 100 37 43;
+  --blue-dark: 147 197 253;
+  --green-dark: 110 231 183;
+  --amber-dark: 253 230 138;
+  --red-dark: 252 165 165;
+}
+
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    background-color: rgb(var(--surface-canvas));
+    color: var(--color-title);
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Outfit', sans-serif;
+  }
+}
+
+/* Clases de utilidad para los 5 estados obligatorios */
+@layer components {
+  /* Botón Primario: Default, Hover, Active, Focus, Disabled */
+  .btn-primary {
+    @apply inline-flex items-center justify-center font-outfit font-medium text-base text-white bg-safety-blue rounded-lg px-5 min-h-[50px] transition-all duration-150 ease-in-out
+      hover:bg-safety-blue-hover hover:shadow-md
+      active:scale-[0.98] active:brightness-95
+      focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-safety-blue
+      disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none;
+  }
+
+  /* Botón Secundario / Outline: Default, Hover, Active, Focus, Disabled */
+  .btn-secondary {
+    @apply inline-flex items-center justify-center font-outfit font-medium text-base text-content-title bg-surface-card border border-slate-300 rounded-lg px-5 min-h-[50px] transition-all duration-150 ease-in-out
+      hover:bg-slate-50 hover:border-slate-400
+      active:scale-[0.98] active:bg-slate-100
+      focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-slate-400
+      disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none;
+  }
+
+  /* Botón SOS de Emergencia Crítica */
+  .btn-sos {
+    @apply inline-flex items-center justify-center font-outfit font-bold text-white bg-safety-red rounded-full shadow-level-3 transition-all duration-200
+      hover:bg-safety-red-hover hover:scale-105
+      active:scale-95 active:brightness-90
+      focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-safety-red/40
+      disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  /* Tarjetas de Acción 2x2 */
+  .card-action {
+    @apply flex flex-col justify-between p-4 bg-surface-card border border-surface-border rounded-lg shadow-level-1 transition-all duration-150 cursor-pointer text-left
+      hover:border-safety-blue/40 hover:shadow-md hover:-translate-y-0.5
+      active:scale-[0.98]
+      focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-safety-blue;
+  }
+
+  /* Input fields */
+  .form-input {
+    @apply w-full min-h-[48px] px-4 text-sm text-content-title bg-surface-card border border-slate-300 rounded-md transition-all duration-150
+      placeholder:text-content-placeholder
+      hover:border-slate-400
+      focus:outline-none focus:border-safety-blue focus:ring-2 focus:ring-safety-blue/20
+      disabled:bg-slate-100 disabled:text-content-muted disabled:cursor-not-allowed;
+  }
+}
+
+/* Ajustes de clases de Tailwind con colores fijos usadas por algunas pantallas. */
+html.dark .bg-white { background-color: rgb(var(--surface-card)); }
+html.dark .bg-slate-50, html.dark .bg-slate-100 { background-color: #1e293b; }
+html.dark .bg-slate-200 { background-color: #334155; }
+html.dark .text-slate-900, html.dark .text-slate-800, html.dark .text-slate-700 { color: #e2e8f0; }
+html.dark .text-slate-600, html.dark .text-slate-500 { color: #cbd5e1; }
+html.dark .border-slate-100, html.dark .border-slate-200, html.dark .border-slate-300 { border-color: #475569; }
+html.dark .hover\:bg-slate-50:hover, html.dark .hover\:bg-slate-100:hover { background-color: #334155; }
+html.dark input, html.dark textarea, html.dark select { color-scheme: dark; }
+
+/* Accesible y siempre visible, incluso al cambiar de ruta. */
+#theme-toggle {
+  position: fixed;
+  z-index: 100;
+  right: max(14px, calc((100vw - 430px) / 2 + 14px));
+  bottom: 84px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 14px;
+  border: 1px solid rgb(var(--surface-border));
+  border-radius: 999px;
+  background: rgb(var(--surface-card));
+  color: rgb(var(--content-title));
+  box-shadow: 0 4px 16px rgb(0 0 0 / 0.17);
+  font: 600 13px 'Inter', sans-serif;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s, transform 0.2s;
+}
+#theme-toggle:hover { transform: translateY(-2px); }
+#theme-toggle:focus-visible { outline: 3px solid #60a5fa; outline-offset: 3px; }
+#theme-toggle svg { width: 18px; height: 18px; }

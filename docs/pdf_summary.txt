@@ -1,0 +1,418 @@
+=== PÁGINA 1 ===
+Alerta Vecinos
+Bienvenido/a
+Mapa
+de
+Riesgo
+Alertas
+Cercanas
+Paradas
+Seguras
+Consejos
+Preventivos
+Reportes
+Emergencias
+Seguridad Personal
+Favoritos
+Mi Perfil
+Administración
+
+=== PÁGINA 2 ===
+<-- Volver
+Mapa de riesgo
+Leyenda:
+Zona Verde
+Zona Amarilla
+Zona Roja
+
+=== PÁGINA 3 ===
+<-- Volver
+<-- Volver
+Alertas Cercanas
+Alertas en tu zona
+⚠ Actividad sospechosa
+a 800 M
+[ Ver incidente ]
+⚠ Robo
+a 500 m
+[Ver incidente]
+Radio de búsqueda
+2km
+[Configurar radio]
+
+=== PÁGINA 4 ===
+← Volver
+Radio de búsqueda
+Radio seleccionado: 2 km
+500 m    1 km    2 km    5 km
+────────●────────
+Guardar configuración
+
+=== PÁGINA 5 ===
+<-- Volver
+Paradas Seguras
+Paradas cercanas
+Buscar Parada ...
+Plaza Roca a 350 M
+Plaza Roca a 350 M
+[Ver ubicación]
+[Ver ubicación]
+Terminal de omnibus a 1km
+[Ver ubicación]
+
+=== PÁGINA 6 ===
+← Volver
+Buscar Paradas
+Buscar parada: __________
+Plaza Roca · 350 m
+Terminal de ómnibus · 1 km
+Ver ubicación
+
+=== PÁGINA 7 ===
+← Volver
+Ubicación de Parada
+[ Mapa de la parada ]
+● Plaza Roca
+Ubicación: a 350 m
+
+=== PÁGINA 8 ===
+<-- Volver
+Consejos Preventivos
+Consejos de prevención
+Evitá circular por zonas
+poco iluminadas durante la
+noche.
+Mantené  tus pertenencias
+siempre a la vista.
+Plaza Roca a 350 M
+[Ver ubicación]
+Siempre compartí tu ubicación
+cuando viajes solo/a
+Ver más recomendaciones
+Números de emergencia
+
+=== PÁGINA 9 ===
+← Volver
+Recomendaciones
+Evitá zonas poco iluminadas.
+Mantené tus pertenencias a la
+vista.
+Compartí tu ubicación al viajar.
+
+=== PÁGINA 10 ===
+<-- Volver
+Números de emergencia
+Contactos de emergencia
+Policía · 911
+Ambulancia · 107
+Bomberos · 100
+
+=== PÁGINA 11 ===
+<-- Volver
+<-- Volver
+Reportes
+Reportes
+Reportes
+Crear reporte
+Consultar reportes
+
+=== PÁGINA 12 ===
+← Volver
+Reportes Públicos
+Robo · 500 m · Pendiente
+Accidente · 1,2 km · Verificado
+Actividad sospechosa · 800 m
+Filtrar reportes
+Ver reporte
+
+=== PÁGINA 13 ===
+← Volver
+Filtrar Reportes
+Cercanía: 2 km
+Categoría: Todas
+Estado del reporte: Todos
+Aplicar filtros
+Limpiar filtros
+
+=== PÁGINA 14 ===
+<-- Volver
+<-- Volver
+Iniciar sesión
+Alerta Vecinos
+Para crear un reporte
+logueate o registrate
+Email
+correo@ejemplo.com
+Contraseña
+************
+Iniciar Sesión
+Registrate
+
+=== PÁGINA 15 ===
+← Volver
+Crear Reporte
+¿Qué querés reportar?
+Seleccioná un tipo para comenzar.
+Seleccionar tipo de reporte
+
+=== PÁGINA 16 ===
+<-- Volver
+<-- Volver
+Tipo de reporte
+Crear nuevo reporte
+Robo
+Actividad
+Sospechosa
+Accidente
+Vandalismo
+Incendio
+Otro
+Continuar
+
+=== PÁGINA 17 ===
+<-- Volver
+<-- Volver
+Completar Reporte
+Tipo de reporte : “Accidente”
+Ubicación: seleccionar
+Descripción:
+Escribí lo sucedido...
+Foto/Video
+Adjuntar Archivo +
+Reporte anónimo
+Si
+No
+Cancelar
+Continuar
+
+=== PÁGINA 18 ===
+<-- Volver
+<-- Volver
+Resumen Reporte
+Tipo de reporte : “Accidente”
+Fecha y hora: 18/08/2026 - 19:32
+Estado: Pendiente
+Número de tracking : REP-000123
+Descripción: Lorem Ipsum Dolor
+Ubicación: Ubicación seleccionada
+Reporte anónimo: No
+[ Editar reporte ] [ Emergencias ]
+Cancelar
+Confirmar Reporte
+
+=== PÁGINA 19 ===
+<-- Volver
+Confirmar reporte
+¿Estás seguro de que querés
+enviar este reporte?
+Revisá los datos antes de
+confirmar.
+Sí, confirmar
+No, volver al resumen
+
+=== PÁGINA 20 ===
+<-- Volver
+<-- Volver
+Reporte Exitoso
+✓
+Reporte creado con éxito
+Ver reporte creado
+Crear otro reporte
+Volver al inicio
+
+=== PÁGINA 21 ===
+<-- Volver
+Detalle del reporte
+Tipo: Accidente
+Estado: Pendiente
+Fecha y hora: 18/08/2026 · 19:32
+Tracking: REP-000123
+Descripción: Lorem Ipsum Dolor
+Ubicación: Ubicación seleccionada
+Anónimo: No
+Ir al inicio
+
+=== PÁGINA 22 ===
+<-- Volver
+<-- Volver
+Seguridad Personal
+Preparar Trayecto
+Destino
+Seleccionar destino
+Contacto de seguridad
+Elegir contacto
+Lugares frecuentes
+Casa
+Trabajo
+Facultad
+Iniciar Trayecto
+
+=== PÁGINA 23 ===
+← Volver
+Seleccionar Destino
+Ubicación actual
+Destino: Buscar lugar...
+Favoritos: Casa · Trabajo ·
+Facultad
+Continuar
+
+=== PÁGINA 24 ===
+← Volver
+Elegir Contacto
+○ Juan Pérez
+○ María Gómez
+○ Contacto de seguridad
+Continuar
+
+=== PÁGINA 25 ===
+<-- Volver
+<-- Volver
+Trayecto Activo
+Destino
+Casa
+Contacto de seguridad
+Juan Pérez
+Estado
+Trayecto en curso
+Finalizar Trayecto
+Enviar Alerta
+Lluegué Bien
+
+=== PÁGINA 26 ===
+← Volver
+Favoritos
+Casa · Editar · Eliminar
+Trabajo · Editar · Eliminar
+Facultad · Editar · Eliminar
+Agregar nuevo lugar
+Editar lugar
+Eliminar lugar
+
+=== PÁGINA 27 ===
+← Volver
+Agregar Lugar
+Nombre del lugar: __________
+Dirección / ubicación: __________
+Cancelar
+Guardar
+
+=== PÁGINA 28 ===
+← Volver
+Editar Lugar
+Nombre: Casa
+Dirección / ubicación: __________
+Cancelar
+Guardar cambios
+
+=== PÁGINA 29 ===
+← Volver
+Eliminar Lugar
+¿Está seguro que desea eliminar
+este lugar?
+Cancelar
+Eliminar
+
+=== PÁGINA 30 ===
+← Volver
+Mi Perfil
+Usuario: Nombre Apellido
+Email: correo@ejemplo.com
+Editar Perfil
+Notificaciones
+Historial Personal
+Mis Reportes
+Reportes Comentados
+Mis Trayectos
+
+=== PÁGINA 31 ===
+← Volver
+Editar Perfil
+Nombre: __________
+Apellido: __________
+Email: __________
+Cancelar
+Guardar cambios
+
+=== PÁGINA 32 ===
+← Volver
+Notificaciones
+Nueva alerta cercana
+Cambio de estado de reporte
+Aviso de seguridad
+
+=== PÁGINA 33 ===
+← Volver
+Historial Personal
+Tu actividad reciente
+Mis Reportes
+Reportes Comentados
+Mis Trayectos
+
+=== PÁGINA 34 ===
+← Volver
+Mis Reportes
+Accidente · 18/08 · Pendiente
+Tracking: REP-000123
+Robo · 15/08 · Verificado
+Ver detalle
+
+=== PÁGINA 35 ===
+← Volver
+Reportes Comentados
+Robo · comentario del 17/08
+Accidente · comentario del 15/08
+Ver reporte
+
+=== PÁGINA 36 ===
+← Volver
+Mis Trayectos
+Casa → Trabajo · 18/08 ·
+Finalizado
+Facultad → Casa · 16/08 ·
+Finalizado
+
+=== PÁGINA 37 ===
+← Volver
+Administración
+Solo administradores
+Moderación de Reportes
+Estadísticas
+Gestión de Usuarios
+Gestión de Reportes
+
+=== PÁGINA 38 ===
+← Volver
+Moderación de Reportes
+Robo · 18/08 · Anónimo ·
+Pendiente
+Accidente · 17/08 · Usuario ·
+Pendiente
+Revisar reporte
+Aprobar
+Rechazar
+
+=== PÁGINA 39 ===
+← Volver
+Estadísticas
+Total de reportes: [  120  ]
+Por categoría: [ ▯ ▯ ▯ ]
+Por estado: [ ▯ ▯ ▯ ]
+Incidentes por zona: [ ▯ ▯ ]
+
+=== PÁGINA 40 ===
+← Volver
+Gestión de Usuarios
+Buscar usuario: __________
+Juan Pérez · Activo
+María Gómez · Activa
+Ver / gestionar usuario
+
+=== PÁGINA 41 ===
+← Volver
+Gestión de Reportes
+Buscar: __________
+Filtrar: Categoría / Estado
+Robo · 18/08 · Pendiente
+Accidente · 17/08 · Verificado
+Gestionar reporte
+
